@@ -6755,7 +6755,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable for up to 300 users.\n\nWant to see what it's like to work on a huge campus in Silicon Valley? We think you'll get a taste of it with this magnificent map made for you."
+         "value":"Allianz Squad Innovation"
         }, 
         {
          "name":"mapImage",
@@ -6765,7 +6765,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Great place to work"
+         "value":"Squad Innovation"
         }, 
         {
          "name":"script",
