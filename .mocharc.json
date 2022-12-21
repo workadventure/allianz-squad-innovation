@@ -1,0 +1,4 @@
+{
+    "require": "ts-node/register/transpile-only",
+    "spec": "tests/unit/**/*.test.{js,ts}"
+}
